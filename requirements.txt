@@ -1,0 +1,19 @@
+# --- Core App ---
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.23.0
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+catboost==1.2.5
+imbalanced-learn==0.12.3
+optuna==3.6.1
+shap==0.45.1
+
+# --- Utilities ---
+joblib==1.4.2
+tqdm==4.66.4
+scipy==1.13.1
