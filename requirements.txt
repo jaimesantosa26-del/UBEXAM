@@ -17,3 +17,6 @@ shap==0.45.1
 joblib==1.4.2
 tqdm==4.66.4
 scipy==1.13.1
+
+# --- Optional (only if you cache or use themes) ---
+# altair==5.2.0
